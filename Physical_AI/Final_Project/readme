@@ -15,6 +15,3 @@ The second player - 4 actions (4 linear)
 
 We devided training into 2 stages. Firstly the team was training against a team of random moving bots(for this we have train.py). Later we use the resulting model for training team by team. 
 
-If you have any questions regarding code contact me any time.
-o.nasypanyi@kaist.ac.kr
-010-4885-9111
