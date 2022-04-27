@@ -1,0 +1,4 @@
+9c9
+<         return a & (b | c)
+---
+>         return True

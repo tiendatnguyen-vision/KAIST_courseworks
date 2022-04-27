@@ -1,0 +1,4 @@
+37c37
+<         if arr[j] <= pivot:
+---
+>         if arr[j] < pivot:

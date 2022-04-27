@@ -1,0 +1,4 @@
+9c9
+<     if len(arr) > 1:
+---
+>     if len(arr) <= 1:

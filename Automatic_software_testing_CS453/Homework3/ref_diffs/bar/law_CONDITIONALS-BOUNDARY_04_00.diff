@@ -1,0 +1,4 @@
+4c4
+<     elif a > b and c == d:
+---
+>     elif a >= b and c == d:

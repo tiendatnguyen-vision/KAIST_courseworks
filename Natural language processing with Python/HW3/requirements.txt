@@ -1,0 +1,3 @@
+
+External environment for implementation:  parser for Wiktionary dictionary
+In file .py, to run the code, first, we need to install this external model by writing this line in terminal command :  pip install wiktionaryparser

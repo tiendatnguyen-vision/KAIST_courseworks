@@ -1,0 +1,4 @@
+10c10
+<     return a + b
+---
+>     return a - b

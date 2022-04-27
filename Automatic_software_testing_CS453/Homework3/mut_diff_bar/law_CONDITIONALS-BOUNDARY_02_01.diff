@@ -1,0 +1,4 @@
+2c2
+<     if a <= b and c > d:
+---
+>     if a <= b and c >= d:

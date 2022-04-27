@@ -1,0 +1,4 @@
+24c24
+<         while i < len(left):
+---
+>         while i >= len(left):

@@ -1,0 +1,4 @@
+49c49
+<         help_sort3(arr, pivot + 1, high)
+---
+>         help_sort3(arr, pivot - 1, high)

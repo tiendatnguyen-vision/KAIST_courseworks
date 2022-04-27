@@ -1,0 +1,4 @@
+46c46
+<     if low < high:
+---
+>     if low >= high:

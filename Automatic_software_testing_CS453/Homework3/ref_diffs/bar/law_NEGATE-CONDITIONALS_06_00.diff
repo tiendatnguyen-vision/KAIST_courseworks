@@ -1,0 +1,4 @@
+6c6
+<     elif a == b or c == d:
+---
+>     elif a != b or c == d:

@@ -1,0 +1,4 @@
+35c35
+<         return a | c
+---
+>         return a & c

@@ -1,0 +1,4 @@
+9c9
+<         return a * b
+---
+>         return False

@@ -1,0 +1,4 @@
+44c44
+<     if len(arr) == 1:
+---
+>     if len(arr) != 1:

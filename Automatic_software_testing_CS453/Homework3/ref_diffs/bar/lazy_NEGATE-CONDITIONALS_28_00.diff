@@ -1,0 +1,4 @@
+28c28
+<         while j < len(right):
+---
+>         while j >= len(right):

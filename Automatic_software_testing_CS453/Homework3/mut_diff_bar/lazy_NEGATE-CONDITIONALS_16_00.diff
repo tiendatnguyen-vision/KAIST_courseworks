@@ -1,0 +1,4 @@
+16c16
+<         while i < len(left) and j < len(right):
+---
+>         while i < len(left) and j >= len(right):

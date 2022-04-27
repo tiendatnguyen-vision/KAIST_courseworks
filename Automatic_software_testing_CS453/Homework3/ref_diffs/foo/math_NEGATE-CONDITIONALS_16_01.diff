@@ -1,0 +1,4 @@
+16c16
+<     elif foo2(a != b, b == c, c < d):
+---
+>     elif foo2(a != b, b == c, c >= d):

@@ -1,0 +1,4 @@
+19c19
+<         return foo2(a, b)
+---
+>         return None

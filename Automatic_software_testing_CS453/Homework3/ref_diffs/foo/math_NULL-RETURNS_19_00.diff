@@ -1,0 +1,6 @@
+19c19
+<         return foo1(a, c, 0, 3)
+\ No newline at end of file
+---
+>         return None
+\ No newline at end of file

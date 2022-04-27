@@ -1,0 +1,6 @@
+52c52
+<     return help_sort3(arr, 0, len(arr) - 1)
+\ No newline at end of file
+---
+>     return False
+\ No newline at end of file

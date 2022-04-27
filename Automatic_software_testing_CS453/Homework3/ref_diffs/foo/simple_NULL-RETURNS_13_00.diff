@@ -1,0 +1,4 @@
+13c13
+<         return -2
+---
+>         return None

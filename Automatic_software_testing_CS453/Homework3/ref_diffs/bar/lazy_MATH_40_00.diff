@@ -1,0 +1,4 @@
+40c40
+<     (arr[i + 1], arr[high]) = (arr[high], arr[i + 1])
+---
+>     (arr[i + 1], arr[high]) = (arr[high], arr[i - 1])

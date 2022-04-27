@@ -1,0 +1,4 @@
+31c31
+<     return a
+---
+>     return True

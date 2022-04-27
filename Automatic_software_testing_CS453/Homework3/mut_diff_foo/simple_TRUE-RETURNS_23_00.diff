@@ -1,0 +1,6 @@
+23c23
+<     return str(34) + ' + ' + str(x)
+\ No newline at end of file
+---
+>     return True
+\ No newline at end of file

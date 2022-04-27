@@ -1,0 +1,4 @@
+23c23
+<         return True
+---
+>         return None

@@ -1,0 +1,6 @@
+18c18
+<     return a + b
+\ No newline at end of file
+---
+>     return a - b
+\ No newline at end of file

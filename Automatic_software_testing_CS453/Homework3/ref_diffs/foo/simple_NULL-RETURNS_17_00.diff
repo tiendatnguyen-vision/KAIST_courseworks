@@ -1,0 +1,4 @@
+17c17
+<         return foo1(a, b)
+---
+>         return None
